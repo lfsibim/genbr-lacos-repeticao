@@ -21,7 +21,7 @@ No intervalo informado, mostre na tela todes os números que são múltiplos de 
 
  ![Captura de tela 2023-11-13 171220](https://github.com/lfsibim/genbr-lacos-repeticao/assets/141850109/4a418bc6-11ef-427d-9aca-6c672f416480)
 
-### Exerício 1 - DO WHILE
+### Exercício 1 - DO WHILE
 
 1) Escreva um algoritmo em Java, que leia números inteiros via teclado, até que o número zero seja digitado. Ao final, mostre na tela a soma de todos os números digitados, que sejam positivos.
 
